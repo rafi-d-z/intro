@@ -1,6 +1,6 @@
 # 👾 Rafid Zia 👾
 
-### Hello and welcome to my GitHub! 👋
+### Welcome to my GitHub! 👋
 
 Here you'll find all my previous projects that I have worked on/currently working on. Most of my project experience is in building full stack applications. However I am always exploring different fields and applications of computer programming, such as machine learning and game development. 
 
