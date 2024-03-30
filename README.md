@@ -10,5 +10,5 @@ My main motive in building projects is to explore my creativity through the craf
 
 ### Where else do I exist? 🦧
 
-You can find me on my LinkedIn [https://www.linkedin.com/in/rafid-zia/]. Feel free to reach out about anything tech related or even non-tech related! I am always happy to meet someone new 😊
+You can find me on my LinkedIn [https://www.linkedin.com/in/rafid-zia/]. Feel free to reach out about anything tech related or even non-tech related!
 
